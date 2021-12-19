@@ -1,4 +1,7 @@
-# Footsite-Bot ideas from jw6602
+# Footsite-Bot 
+
+###ideas from jw6602
+
 
 1. Extract profiles and tasks information from CSV file.
 2. Third party captcha API.
